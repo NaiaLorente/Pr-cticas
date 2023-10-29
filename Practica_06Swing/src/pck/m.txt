@@ -1,0 +1,75 @@
+1,Almería,201775,Almería,Andalucía,500000
+2,Alicante,338577,Alicante,Comunidad Valenciana,216961
+3,Badalona,223506,Barcelona,Cataluña,223506
+4,Barcelona,1636193,Barcelona,Cataluña,1636193
+5,Bilbao,344127,Vizcaya,Euskadi,3441270
+6,Cartagena,216961,Murcia,Murcia,216961
+7,Córdoba,319515,Córdoba,Andalucía,319515
+8,Elche,235580,Alicante,Comunidad Valenciana,777650
+9,Gijón,267706,Asturias,Asturias,267706
+10,Granada,228682,Granada,Andalucía,228682
+11,Hospitalet de Llobregat,265444,Barcelona,Cataluña,265444
+12,Jerez de la Frontera,212730,Cádiz,Andalucía,212730
+13,La Coruña,244700,La Coruña,Galicia,244700
+14,Las Palmas de Gran Canaria,378797,Las Palmas,Canarias,378797
+15,Madrid,3280782,Madrid,Madrid,3280782
+16,Málaga,579076,Málaga,Andalucía,579076
+17,Móstoles,208761,Madrid,Madrid,208761
+18,Murcia,462979,Murcia,Murcia,462979
+19,Oviedo,215167,Asturias,Asturias,215167
+20,Palma de Mallorca,415940,Baleares,Baleares,415940
+21,Pamplona,203418,Navarra,Navarra,203418
+22,Sabadell,215760,Barcelona,Cataluña,5000000
+23,Santa Cruz de Tenerife,208688,Santa Cruz de Tenerife,Canarias,208688
+24,Sevilla,681998,Sevilla,Andalucía,681998
+25,Tarrasa,224114,Barcelona,Cataluña,224114
+26,Valencia,792492,Valencia,Comunidad Valenciana,792492
+27,Valladolid,295639,Valladolid,Castilla y León,295639
+28,Vigo,292374,Pontevedra,Galicia,292374
+29,Vitoria,253672,Álava,Euskadi,253672
+30,Zaragoza,673010,Zaragoza,Aragón,673010
+31,Murcia,462979,Murcia,Murcia,462979
+32,Algeciras,121919,Cádiz,Andalucía,87999
+33,Castellón de la Plana,180005,Castellón,Comunidad Valenciana,180005
+34,Terrassa,217210,Barcelona,Cataluña,217210
+35,L'Hospitalet de Llobregat,257038,Barcelona,Cataluña,257038
+36,Reus,107842,Tarragona,Cataluña,107842
+37,Fuenlabrada,194171,Madrid,Madrid,194171
+38,San Cristóbal de la Laguna,154202,Santa Cruz de Tenerife,Canarias,154202
+39,Logroño,151376,La Rioja,La Rioja,151376
+40,Santa Coloma de Gramenet,117604,Barcelona,Cataluña,117604
+41,Torrevieja,113662,Alicante,Comunidad Valenciana,113662
+42,Salamanca,144228,Salamanca,Castilla y León,144228
+43,San Sebastián,186665,Gipuzkoa,Euskadi,186665
+44,Huelva,149410,Huelva,Andalucía,149410
+45,Cádiz,118919,Cádiz,Andalucía,118919
+46,Tarragona,134815,Tarragona,Cataluña,134815
+47,Lérida,141251,Lérida,Cataluña,141251
+48,Jaén,116603,Jaén,Andalucía,116603
+49,Ourense,105233,Ourense,Galicia,105233
+50,Albacete,148883,Albacete,Castilla-La Mancha,148883
+51,Leganés,189424,Madrid,Madrid,189424
+52,San Fernando,97025,Cádiz,Andalucía,97025
+53,Getafe,181716,Madrid,Madrid,181716
+54,Burgos,177679,Burgos,Castilla y León,177679
+55,Alcalá de Henares,204574,Madrid,Madrid,204574
+56,Alcorcón,168141,Madrid,Madrid,168141
+57,León,124303,León,Castilla y León,124303
+58,Ciudad Real,74661,Ciudad Real,Castilla-La Mancha,74661
+59,Cáceres,96906,Cáceres,Extremadura,96906
+60,Salamanca,144228,Salamanca,Castilla y León,144228
+61,Mataró,127597,Barcelona,Cataluña,127597
+62,St. Boi de Llobregat,82014,Barcelona,Cataluña,82014
+63,Dos Hermanas,131674,Sevilla,Andalucía,131674
+64,Zamora,60682,Zamora,Castilla y León,60682
+65,Irún,61109,Gipuzkoa,Euskadi,61109
+66,Fuengirola,79279,Málaga,Andalucía,79279
+67,Mijas,82751,Málaga,Andalucía,82751
+68,Alcalá de Guadaíra,74611,Sevilla,Andalucía,74611
+69,Mollet del Vallés,52263,Barcelona,Cataluña,52263
+70,Donostia,186409,Gipuzkoa,Euskadi,186409
+71,Mahón,29452,Menorca,Baleares,29452
+72,Castelldefels,68243,Barcelona,Cataluña,68243
+73,Vilanova i la Geltrú,67228,Barcelona,Cataluña,67228
+74,Ripollet,39344,Barcelona,Cataluña,39344
+75,Manresa,76651,Barcelona,Cataluña,76651
